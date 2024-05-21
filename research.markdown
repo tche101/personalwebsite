@@ -42,6 +42,6 @@ Nearly all evidence of the False Consensus Effect (FCE) is a positive associatio
 
 **Deliberative Polling**
 
-**Chen, C.**, Krosnick, J. A. & Fishkin, J. S. (In prep). The Impact of Deliberative Polling on Opinionation and Knowledge Acquisition. [[Poster]](DP .pdf)
+**Chen, C.**, Krosnick, J. A. & Fishkin, J. S. (In prep). The Impact of Deliberative Polling on Opinionation and Knowledge Acquisition. [[Poster]](DP.pdf)
 
 Through analyses of a nationally representative deliberative poll conducted in 2019 (N pre-deliberation = 3,842; N post-deliberation = 1,367), the current study explored whether changes in policy preferences were mediated by knowledge gains on those issues. In other words, the current study investigated the extent to which changes in policy preferences, if any, can be attributed to increases in knowledge of these policies. 
