@@ -6,9 +6,11 @@ permalink: /teaching/
 
 **Instructor of record**
 
-COMM 105S Public Understanding of Science, Stanford University
+POLI 4030 Public Political Attitude & Public Opinion, Department of Political Science, Louisiana State University [[Syllabus]]()
 
-This course is about the interrelationship between science and the public, where "science" is understood in a broad way including both social and natural sciences. It examines how communication about science (in classrooms, in the news media, etc.) influences how the public thinks and acts when it comes to scientific issues. This course explores public perceptions, representations, and assessments of science by drawing together studies from communication, psychology, political science, and environmental science.
+MC 7004 News Media & Governance, Manship School of Mass Communication, Louisiana State University [[Syllabus]]()
+
+COMM 105S Public Understanding of Science, Stanford University
 
 **Teaching Assistant**
 
