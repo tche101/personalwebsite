@@ -6,9 +6,9 @@ permalink: /teaching/
 
 **Instructor of record**
 
-POLI 4030 Public Political Attitude & Public Opinion, Department of Political Science, Louisiana State University [[Syllabus]]()
+POLI 4030 Public Political Attitude & Public Opinion, Department of Political Science, Louisiana State University [[Syllabus]](POLI 4030 Syllabus.pdf)
 
-MC 7004 News Media & Governance, Manship School of Mass Communication, Louisiana State University [[Syllabus]]()
+MC 7004 News Media & Governance, Manship School of Mass Communication, Louisiana State University [[Syllabus]](MC_7004 Syllabus.pdf)
 
 COMM 105S Public Understanding of Science, Stanford University
 
