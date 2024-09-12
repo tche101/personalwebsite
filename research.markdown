@@ -26,9 +26,15 @@ Drawing upon the Moral Foundations Theory, we designed two information intervent
 
 **Chen, C.**, Neufeld, N., & Krosnick, J. A. (In prep). The Impact of Trump Rhetoric on Attitudes Toward COVID-19 Vaccines and Vaccination Intention: A Randomized Controlled Trial. [[Talk Slides]](Trump vac.pdf)
 
-We examined the effects of a one-minute video compilation featuring Trump endorsing and taking credit for COVID-19 vaccines on vaccination attitudes an intention (N = 1609). Contrary to expectations, the video did not improve attitudes towards COVID-19 vaccines or intentions to get vaccinated either on the population level or among unvaccinated Republicans. However, it significantly increased the tendency to vote for Trump, both as a Republican nominee and as an Independent candidate, on the population level.
+We examined the effects of a one-minute video compilation featuring Trump endorsing and taking credit for COVID-19 vaccines on vaccination attitudes and intention (N = 1609). Contrary to expectations, the video did not improve attitudes towards COVID-19 vaccines or intentions to get vaccinated either on the population level or among unvaccinated Republicans. However, it significantly increased the tendency to vote for Trump, both as a Republican nominee and as an Independent candidate, on the population level.
 
-**Human perceptions of science**
+**Science communication with LLM**
+
+**Chen, C.** (In prep). Trends in Science Communication through the Lenses of Large Language Models [[Poster]](LLooM Poster.jpg)
+
+Analyses of abstracts from science communication-related journals with a Scopus CiteScore larger than 3 indicated that prominent research topics of all times included media impact, health and environment, ways to foster effective science communication, social impact of science communication, and advances in research methods. Additionally, the current research identified distinct trends aligned with significant real-world events: the 2000s featured a focus on biotech and gene technology ethics; the 2010s emphasized social media and opinion polarization; and the 2020s documented extensive research on misinformation and COVID-19.
+
+**Perceptions of science**
 
 **Chen, C.**, Li, X., Huang, P., & Cohen, G. L. (In prep). When Science Puts on a Human Face: The Trade-off between Knowledge and Utility in Public Perception of Science.
 
